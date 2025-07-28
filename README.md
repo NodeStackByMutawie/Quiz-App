@@ -13,7 +13,7 @@ A simple and interactive multiple-choice quiz app built with **HTML, CSS, and Ja
 
 ## 🖥️ Demo
 
-![Quiz App Screenshot](screenshot.png) <!-- Replace with your actual screenshot or remove this -->
+!images/Screenshot.png
 
 ## 📂 Project Structure
 
